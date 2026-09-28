@@ -1,0 +1,1 @@
+Problem 19 is present in the supplied PDF, but its mathematical function/series expression is not readable in extracted text because the PDF formatting was lost. Visible samples: x=1 -> 0.841, x=2 -> 0.909, x=3 -> 0.141. The formula was not guessed. Check the original PDF image for the exact expression before coding.

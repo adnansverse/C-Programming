@@ -1,0 +1,1 @@
+Problem 11 is present in the supplied PDF, but its mathematical series expression is not readable in extracted text because the PDF formatting was lost. The visible sample results are N=2 -> 14, N=3 -> 50, N=4 -> 130, N=7 -> 924. The formula was not guessed. Check the original PDF image for the exact expression before coding.
