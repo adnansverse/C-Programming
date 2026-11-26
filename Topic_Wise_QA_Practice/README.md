@@ -13,7 +13,7 @@ Every solution is compile-tested before it is pushed.
 |-----|-------|------|
 | 01 | Syntax & C Output | `01_syntax_and_output.c` |
 | 02 | Comments & Variables | `02_comments_and_variables.c` |
-| 03 | Data Types | _pending_ |
+| 03 | Data Types | `03_data_types.c` |
 | 04 | Type Conversion & Constants | _pending_ |
 | 05 | Operators | _pending_ |
 | 06 | Booleans | _pending_ |
@@ -28,3 +28,4 @@ Every solution is compile-tested before it is pushed.
 
 - [x] Day 01 - Syntax & C Output
 - [x] Day 02 - Comments & Variables
+- [x] Day 03 - Data Types
